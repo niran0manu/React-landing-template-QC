@@ -1,0 +1,57 @@
+.navbar__container{
+    height: 60px;
+	display: flex;
+	align-items: center;
+	background-color: black;
+	position: sticky;
+	top: 0;
+	z-index: 100;
+    justify-content: space-evenly;
+}
+
+.navbar__logo{
+	color: white;
+}
+
+.navbar__sreach{
+    display: flex;
+	flex: 0.2;  
+	align-items: center;
+	border-radius: 24px;
+
+}
+
+.searchInput{
+    height: 12px;
+	padding: 10px;
+	border: none;
+	width: 100%;
+}
+
+.navbar__searchIcon{
+    padding: 5px;
+	height: 22px !important;
+    color:white;
+	background-color: black;
+}
+
+
+.navbar__options{
+    display: flex;
+	flex-direction: row;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: white;
+   
+}
+
+.navbar__options > span {
+    margin-left: 30px;
+    font-size: 24px;
+	font-weight: 80;
+   
+}
+
+.navbar__options:hover > {    
+    cursor: pointer;
+}
