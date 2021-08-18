@@ -1,4 +1,13 @@
 ![screencapture-localhost-3000-2021-08-18-08_42_01](https://user-images.githubusercontent.com/11633823/129844663-77c4a612-a3d5-4f22-8a4f-fe1ebc37f704.png)
+
+Hello There,
+This is Just a simple non-responsive Landing page Template built with react. More features will be added and improved over time. 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
